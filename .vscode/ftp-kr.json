@@ -1,0 +1,19 @@
+{
+    "host": "andr.massweb.pro",
+    "username": "andr_massweb",
+    "password": "5WG9VgOuXz5pjKow",
+    "remotePath": "2080-animale-reworklite-AU-1standart",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": false,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode",
+        "*.css.map",
+        "*.scss",
+        "/.delete"
+    ]
+}
